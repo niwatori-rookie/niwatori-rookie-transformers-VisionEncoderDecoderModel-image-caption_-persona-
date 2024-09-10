@@ -1,0 +1,2 @@
+# niwatori-rookie-transformers-VisionEncoderDecoderModel-image-caption_-persona-
+transformers ライブラリの VisionEncoderDecoderModelを使った画像キャプションのシュミレーション
